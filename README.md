@@ -4,7 +4,7 @@ An AI workflow that turns raw Groww Play Store reviews into a **weekly internal 
 
 This is the same product as Milestone 4 (Groww, with the HDFC Mutual Fund FAQ assistant). It simulates a Product + Support workflow: product tracks sentiment, and support gets a clear explanation for recurring confusion.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://mf-faq-assistant-eval-vasim1-4nfpdrq2cyhbekid8bsizq.streamlit.app/
 
 ## What fee issue was identified from the reviews
 

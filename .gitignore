@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
-logs/*.jsonl
-data/raw/
+outputs/
+data/_uploaded.csv
 .env
+.streamlit/secrets.toml
